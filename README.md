@@ -1,1 +1,1 @@
-# neo4j_book
+neo4j-book
